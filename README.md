@@ -4,4 +4,4 @@ Made by Kristian Knudsen 2020 - [https://kristian-knudsen.github.io](https://kri
 
 # Usage
 To use this program, grab the project or the file, and use the following command to run the script (ensure to be in the same folder as the script in CMD)
-python main.py <target> <start port> <close port>
+python main.py target startport closeport
